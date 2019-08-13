@@ -11,5 +11,6 @@ npm install
 ### Clien ID
 Además se debe ingresar el *client_id* de Google en el Head
 
-`<meta name="google-signin-client_id" content="<client_id>">
-`
+```
+<meta name="google-signin-client_id" content="<client_id>">
+```
